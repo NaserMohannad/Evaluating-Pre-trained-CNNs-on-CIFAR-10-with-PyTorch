@@ -45,18 +45,6 @@ All models were modified by replacing the final fully connected (FC) layer.
 
 ---
 
-## 📊 Results
-
-| Model        | Test Accuracy (%) |
-|--------------|-------------------|
-| ResNet18     | XX.X              |
-| VGG16        | XX.X              |
-| MobileNetV2  | XX.X              |
-
-> Replace `XX.X` with actual test results from your notebook.
-
----
-
 ## 📁 Files
 
 - `assignment-3.ipynb`: Full implementation and results
